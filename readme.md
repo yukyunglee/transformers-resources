@@ -70,6 +70,18 @@ huggingface는 자체적으로 상세한 document를 제공하며, 관련 notebo
 
 
 
+## 📂 note
+
+transformer를 활용하여 모델링을 진행하다 알게된 작고 소중한 메모들을 정리하였습니다.
+
+#### 01 Checkpoint loading
+
+* checkpoint loading시 주의할점
+
+  * model state_dict일부만 loading하기
+
+  
+
 ## 📂 modeling
 
 To Be Continued..
