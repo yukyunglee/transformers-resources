@@ -72,7 +72,7 @@ huggingface는 자체적으로 상세한 document를 제공하며, 관련 notebo
 
 ## 📂 note
 
-transformer를 활용하여 모델링을 진행하다 알게된 작고 소중한 메모들을 정리하였습니다.
+transformers를 활용하여 모델링을 진행하다 알게된 작고 소중한 메모들을 정리하였습니다.
 
 #### 01 Checkpoint loading
 
@@ -84,7 +84,11 @@ transformer를 활용하여 모델링을 진행하다 알게된 작고 소중한
 
 ## 📂 modeling
 
-To Be Continued..
+transformers를 활용하여 간단한 nlp 모델을 구현합니다.
 
+##### 01 Named Entity Recognition
 
+* Trainer 사용, config 수정, 함수 분리
+* datasets의 [CoNLL-2003 ](https://www.aclweb.org/anthology/W03-0419.pdf) 사용하여 모델링
+* eval_f1: 0.93, eval_acc: 0.98
 
