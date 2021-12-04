@@ -82,6 +82,13 @@ transformers를 활용하여 모델링을 진행하다 알게된 작고 소중�
 
   
 
+#### 02 Tokenizer
+
+* Tokenizer 사용시 고려하면 좋을 몇가지 포인트
+  * tokenizer.encode와 tokenizer.convert_tokens_to_ids
+
+
+
 ## 📂 modeling
 
 transformers를 활용하여 간단한 nlp 모델을 구현합니다.
