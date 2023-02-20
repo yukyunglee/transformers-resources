@@ -6,7 +6,7 @@ huggingface transformers를 사용하면서 정리한 자료들을 아카이빙 
 # Requirements
 transformers==4.5.0
 ```
-
+(참고: Python version에 따라 4.5.0에서 실행되지 않는 경우엔 python version에 맞는 transformers 설치 필요함)
 
 
 ## 00 Introduction
