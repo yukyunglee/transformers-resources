@@ -15,7 +15,7 @@ transformers==4.5.0
 
 ### 1) What is Transformers?
 
-<center><img src='https://raw.githubusercontent.com/yukyunglee/yukyunglee.github.io/master/HF.png' width=500>
+<center><img src ='./img/HF.png' style="zoom:50%;" >
 
 * **Huggingface Transformer**는 모델을 쉽고 빠르게 생성하고, 학습하고, 배포하기 위해 만들어진 Highlevel Library입니다
 * NLP 모델을 쉽고 빠르게 학습할 수 있으며, 다양한 pipeline 및 정형화된 코드를 제공합니다
